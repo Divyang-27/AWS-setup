@@ -1,7 +1,5 @@
 # AWS-setup
 
-Here is a GitHub documentation guide for signing up, signing in to AWS, launching an EC2 instance, and connecting it via SSH to an Ubuntu AMI instance, along with installing Java, pip, and Jenkins.
-
 ---
 
 # AWS EC2 Setup Guide - Ubuntu AMI
